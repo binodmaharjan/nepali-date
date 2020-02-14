@@ -1,0 +1,16 @@
+{
+  "name": "nepalidate",
+  "version": "1.0.0",
+  "description": "converts english date to nepali date",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node index.js"
+  },
+  "author": "binod maharjan",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
