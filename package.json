@@ -1,5 +1,5 @@
 {
-  "name": "nepalidate",
+  "name": "english-to-nepali-date",
   "version": "1.0.0",
   "description": "converts english date to nepali date",
   "main": "index.js",
@@ -13,4 +13,5 @@
   "devDependencies": {
     "jest": "^25.1.0"
   }
+  
 }
