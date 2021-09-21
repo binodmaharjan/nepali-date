@@ -92,16 +92,3 @@ let date = new dates(2020,2,14);
        
     });
 
-        describe("english to nepali date another similar test", () => {
-          test("eng_to_nep", () => {
-            const expected = {
-              year: 2076,
-              month: 11,
-              day: 2,
-              week: 6,
-              num_day: 6,
-            };
-            expect(date.eng_to_nep(2020, 2, 13)).toMatchObject(expected);
-          });
-        });
-
